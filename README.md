@@ -10,4 +10,10 @@ Liam Photography Portfolio Site<br>
 Site screenshots.<br>
 
 Desktop<br>
-![s-1](https://github.com/ahmetmetinarslan/liam-photography/blob/main/Responsive%20Portfolio%20Website%20for%20GitHub/site-photos/s-1.png?raw=true)
+![s-1](https://github.com/ahmetmetinarslan/liam-photography/blob/main/Responsive%20Portfolio%20Website%20for%20GitHub/site-photos/s-1.png?raw=true)<br>
+![s-1](https://github.com/ahmetmetinarslan/liam-photography/blob/main/Responsive%20Portfolio%20Website%20for%20GitHub/site-photos/s-2.png?raw=true)<br>
+![s-1](https://github.com/ahmetmetinarslan/liam-photography/blob/main/Responsive%20Portfolio%20Website%20for%20GitHub/site-photos/s-3.png?raw=true)<br>
+
+Mobile Devices<br>
+![s-1](https://github.com/ahmetmetinarslan/liam-photography/blob/main/Responsive%20Portfolio%20Website%20for%20GitHub/site-photos/ms-1.png?raw=true)<br>
+![s-1](https://github.com/ahmetmetinarslan/liam-photography/blob/main/Responsive%20Portfolio%20Website%20for%20GitHub/site-photos/ms-2.png?raw=true)
