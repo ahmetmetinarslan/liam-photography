@@ -10,4 +10,4 @@ Liam Photography Portfolio Site<br>
 Site screenshots.<br>
 
 Desktop<br>
-![s-1]([http://url/to/img.png](https://github.com/ahmetmetinarslan/liam-photography/blob/main/Responsive%20Portfolio%20Website%20for%20GitHub/site-photos/s-1.png?raw=true))
+![s-1](https://github.com/ahmetmetinarslan/liam-photography/blob/main/Responsive%20Portfolio%20Website%20for%20GitHub/site-photos/s-1.png?raw=true)
