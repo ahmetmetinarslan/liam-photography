@@ -7,6 +7,8 @@ Liam Photography Portfolio Site<br>
 -In addition, when you mouse over the pictures, the pictures enlarge.<br>
 -In this study, html, css and js were used.<br><br>
 
+<hr>
+
 Site screenshots.<br>
 
 Desktop<br>
@@ -18,5 +20,4 @@ Desktop<br>
 
 Mobile Devices<br>
 ![s-1](https://github.com/ahmetmetinarslan/liam-photography/blob/main/Responsive%20Portfolio%20Website%20for%20GitHub/site-photos/ms-1.png?raw=true)<br><br>
-<hr>
 ![s-1](https://github.com/ahmetmetinarslan/liam-photography/blob/main/Responsive%20Portfolio%20Website%20for%20GitHub/site-photos/ms-2.png?raw=true)
