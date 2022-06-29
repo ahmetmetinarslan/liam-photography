@@ -6,7 +6,7 @@ Liam Photography Portfolio Site<br>
 -A simple link work has been done on the site. In this way, if you press the 'View work' button, you can see the pictures much faster.<br>
 -In addition, when you mouse over the pictures, the pictures enlarge.<br>
 -In this study, html, css and js were used.<br><br>
-
+ 
 <hr>
 
 Site screenshots.<br> 
